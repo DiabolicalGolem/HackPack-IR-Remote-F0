@@ -1,4 +1,4 @@
-# HackPack-IR-Remote-Flipper0-File
+# HackPack-IR-Remote-F0
 
 An IR file for the HackPack IR Turret that can be used with a FlipperZero.
 
